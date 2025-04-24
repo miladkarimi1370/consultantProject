@@ -6,7 +6,7 @@
 
 ![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
 
-- [Demo Project](https://github.com/miladkarimi1370/consultantProject/settings/pages)
+- [Demo Project](https://miladkarimi1370.github.io/consultantProject/)
 
 - Developed by Milad Karimi
 
