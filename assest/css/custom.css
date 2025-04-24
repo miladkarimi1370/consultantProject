@@ -1,0 +1,11 @@
+.btnCustom {
+    width: 120px;
+    height: 60px;
+    background-color: rgba(214, 127, 112, 0.89);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke !important; 
+    font-family: cursive;
+    border-radius: 10px;
+}
