@@ -8,15 +8,15 @@
 
 - [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
 
-- Developed by pouria farahani
+- Developed by Milad Karimi
 
-- Created - 2022-11-26
+- Created - 24 Apr 2025
 
 - Technologies Used - Html , css
  
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
+- How to reach me : with my [instagram](https://www.instagram.com/miladkarimi.dev) and [linkedin](https://www.linkedin.com/in/milad-karimi-mohammadiyeh-313a731a8/)
 
 <h1 align="center">Hi 👋, I'm Milad</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
