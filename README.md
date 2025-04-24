@@ -12,7 +12,7 @@
 
 - Created - 24 Apr 2025
 
-- Technologies Used - Html , css
+- Technologies Used - Html 🔥 , css
  
 - Role - Frontend
 
