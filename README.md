@@ -1,6 +1,6 @@
 # consultant project
 
-** you can see beutifull consultant website from me 🔥🔥 **
+** you can see beautifull consultant website from me 🔥🔥 **
 
 ![Image](https://github.com/user-attachments/assets/dfb4771e-f3cd-4452-bb9f-5c9e7358bb05)
 
